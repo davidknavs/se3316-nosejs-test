@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/davidknavs/se3316-nosejs-test/issues"
   },
-  "homepage": "https://github.com/davidknavs/se3316-nosejs-test#readme"
+  "homepage": "https://github.com/davidknavs/se3316-nosejs-test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
